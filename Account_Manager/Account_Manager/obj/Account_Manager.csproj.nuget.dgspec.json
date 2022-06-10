@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP Pavilion 15\\Desktop\\Websites\\Account_Manager\\Account_Manager\\Account_Manager.csproj": {}
+    "C:\\Users\\HP Pavilion 15\\Desktop\\ASP.NET-Websites\\Account_Manager\\Account_Manager\\Account_Manager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP Pavilion 15\\Desktop\\Websites\\Account_Manager\\Account_Manager\\Account_Manager.csproj": {
+    "C:\\Users\\HP Pavilion 15\\Desktop\\ASP.NET-Websites\\Account_Manager\\Account_Manager\\Account_Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP Pavilion 15\\Desktop\\Websites\\Account_Manager\\Account_Manager\\Account_Manager.csproj",
+        "projectUniqueName": "C:\\Users\\HP Pavilion 15\\Desktop\\ASP.NET-Websites\\Account_Manager\\Account_Manager\\Account_Manager.csproj",
         "projectName": "Account_Manager",
-        "projectPath": "C:\\Users\\HP Pavilion 15\\Desktop\\Websites\\Account_Manager\\Account_Manager\\Account_Manager.csproj",
+        "projectPath": "C:\\Users\\HP Pavilion 15\\Desktop\\ASP.NET-Websites\\Account_Manager\\Account_Manager\\Account_Manager.csproj",
         "packagesPath": "C:\\Users\\HP Pavilion 15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP Pavilion 15\\Desktop\\Websites\\Account_Manager\\Account_Manager\\obj\\",
+        "outputPath": "C:\\Users\\HP Pavilion 15\\Desktop\\ASP.NET-Websites\\Account_Manager\\Account_Manager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP Pavilion 15\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[5.0.14, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
